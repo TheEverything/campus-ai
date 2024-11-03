@@ -10,6 +10,7 @@ A FastAPI-based RAG (Retrieval Augmented Generation) system designed to answer q
 - Vector storage using Chroma DB
 - FastAPI endpoints for question answering and health checking
 - Docker support for easy deployment
+- Well designed Flutter ui for using our RAG
 
 ## Prerequisites
 
@@ -32,6 +33,7 @@ A FastAPI-based RAG (Retrieval Augmented Generation) system designed to answer q
 ├── requirements.txt
 ├── foritu-deneme-7f2584d4844c.json
 ├── merge_from_ofoct.txt
+├── app
 └── chroma_db/
 ```
 
